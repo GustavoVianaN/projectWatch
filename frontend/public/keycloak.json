@@ -1,0 +1,10 @@
+{
+    "realm": "ipms-dev",
+    "auth-server-url": "http://192.168.13.137:3000/auth/",
+    "ssl-required": "external",
+    "resource": "portal-api",
+    "credentials": {
+      "secret": "Kafgakxk0mD2cNY5XuyrePyflQ0DEXXN"
+    },
+    "confidential-port": 0
+  }
